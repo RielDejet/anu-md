@@ -28,7 +28,7 @@ const defaultMenu = {
 ┆⬡ *Database* : %rtotalreg dari %totalreg
 ┆⬡ *Memory Used* : ${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB
 ┆⬡ *Instagram* :
-┆⬡ https://instagram.com/oscarbotz_
+┆⬡ https://instagram.com/Lizxxx_
 ┗─────────────────⬣
 %readmore`.trim(),
   header: '┏━┈┈『 %category 』┈┈⬣',
@@ -197,11 +197,11 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
       let judul = `${global.ucapan}, ${name}`.trim()
       const sections = [
       {
-        title: '𝐥𝐢𝐬𝐭 𝐦𝐞𝐧𝐮 𝐀𝐥𝐩𝐢 𝐛𝐨𝐭',
+        title: '𝐥𝐢𝐬𝐭 𝐦𝐞𝐧𝐮 𝐟𝐚𝐫𝐡𝐚𝐧 𝐛𝐨𝐭',
         rows: [
           { title: 'allmenu', rowId: `${_p}? all` },
-          { title: 'info alpi', rowId: `${_p}? infonadia` },
-          { title: 'info jarot', rowId: `${_p}? infomursid` },
+          { title: 'info farhan', rowId: `${_p}? infonadia` },
+          { title: 'info riel', rowId: `${_p}? infomursid` },
           { title: 'game', rowId: `${_p}? game` },
           { title: 'xp', rowId: `${_p}? xp` },
           { title: 'stiker', rowId: `${_p}? stiker` },
