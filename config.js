@@ -36,16 +36,16 @@ global.wait = '_*𝒔𝒆𝒅𝒂𝒏𝒈 𝒅𝒊 𝒑𝒓𝒐𝒔𝒆𝒔...*_
 global.eror = '_*𝒎𝒂𝒂𝒇 𝒔𝒆𝒓𝒗𝒆𝒓 𝒆𝒓𝒓𝒐𝒓...*_'
 
 //========Url Template Buttons=========//
-global.dtu = '𝑌𝑜𝑢𝑡𝑢𝑏𝑒'
-global.urlnya = "https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ"
+global.dtu = 'Group bot'
+global.urlnya = "https://chat.whatsapp.com/CU0NIekiHQzCm5H2qUP1Lx"
 
 //============= callButtons =============//
 global.dtc = '𝒄𝒂𝒍𝒍 𝒐𝒘𝒏𝒆𝒓'
-global.phn = '62 857-1313-7903'
+global.phn = '3'
 
 //============= Games ================//
-global.benar = '_*Benar*_'
-global.salah = '_*Salah*_'
+global.benar = '_*Benar*_✅'
+global.salah = '_*Salah*_❌'
 global.dikit = "dikit lagi"
 
 global.multiplier = 100 // The higher, The harder levelup
