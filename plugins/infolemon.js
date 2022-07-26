@@ -20,9 +20,9 @@ conn.reply(m.chat, `
 `.trim(), m)
 }
 
-handler.help = ['infojarot']
+handler.help = ['infolemon']
 handler.tags = ['main', 'utama']
-handler.command = /^(infojarot)$/i
+handler.command = /^(infolemon)$/i
 
 handler.exp = 150
 
