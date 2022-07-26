@@ -30,14 +30,14 @@ module.exports = {
         global.namabot = conn.user.name
         global.packname = global.namabot
         global.author = global.data.owner
-        //global.author = '𝐟𝐚𝐫𝐡𝐚𝐧'
+        //global.author = lemon'
         global.wm2 = global.data.namabot + ' ' + global.data.owner
-        global.wm = '© 𝐅𝐚𝐫𝐡𝐚𝐧 𝐁𝐨𝐭'
+        global.wm = '© lemon X Riel'
         global.colong1 = 'Ciss 📸'
-        global.colong2 = '𝐟𝐚𝐫𝐡𝐚𝐧 𝑩𝒐𝒕'
+        global.colong2 = 'lemon 𝑩𝒐𝒕'
         global.kontak2 = [
-        ['62882006485504', '𝐟𝐚𝐫𝐡𝐚𝐧', '𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝑩𝒐𝒕', 'donasi cok make doang', true],
-        ['6282146218274', await this.getName('6282146218274@s.whatsapp.net'), '𝑷𝒂𝒓𝒕𝒏𝒆𝒓 𝐅𝐚𝐫𝐡𝐚𝐧 𝑩𝒐𝒕', 'save riel aowwowk:v butuh kawan', true], 
+       ['6281252232882', 'Lemongans', '𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝑩𝒐𝒕', 'donasi cok make doang', true],
+        ['6282146218274', await this.getName('6281252232882@s.whatsapp.net'), 'jasa run 30k manen', 'jasa run langgsung cht owner riel', true], 
         ]
         global.bg = await (await fetch(img)).buffer()
         global.time = require('moment-timezone').tz('Asia/Jakarta').format('HH:mm:ss')
