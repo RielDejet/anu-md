@@ -37,7 +37,7 @@ global.eror = '_*𝒎𝒂𝒂𝒇 𝒔𝒆𝒓𝒗𝒆𝒓 𝒆𝒓𝒓𝒐𝒓.
 
 //========Url Template Buttons=========//
 global.dtu = 'Group bot'
-global.urlnya = "https://chat.whatsapp.com/CU0NIekiHQzCm5H2qUP1Lx"
+global.urlnya = "https://chat.whatsapp.com/BcVGEUc1gHR78CpYQPM2ic"
 
 //============= callButtons =============//
 global.dtc = '𝒄𝒂𝒍𝒍 𝒐𝒘𝒏𝒆𝒓'
