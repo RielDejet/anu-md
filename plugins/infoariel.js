@@ -12,7 +12,7 @@ conn.reply(m.chat, `
 `.trim(), m)
 }
 
-handler.help = ['infoalpi']
+handler.help = ['inforiel']
 handler.tags = ['main', 'utama']
 handler.command = /^(inforiel)$/i
 
