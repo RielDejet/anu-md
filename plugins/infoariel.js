@@ -1,6 +1,6 @@
 let handler  = async (m, { conn, usedPrefix }) => { 
 conn.reply(m.chat, `
-╭─˗ˏˋ *INFORMASI Alpi* ´ˎ˗
+╭─˗ˏˋ *INFORMASI RIEL* ´ˎ˗
 │ ✎ _Nama_ : Riel 
 │ ✎ _Sekolah_ : SMK 3 TENGGARONG
 │ ✎ _Umur_ : 16
@@ -14,7 +14,7 @@ conn.reply(m.chat, `
 
 handler.help = ['infoalpi']
 handler.tags = ['main', 'utama']
-handler.command = /^(infoalpi)$/i
+handler.command = /^(inforiel)$/i
 
 handler.exp = 150
 
